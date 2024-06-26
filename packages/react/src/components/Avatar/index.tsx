@@ -13,3 +13,5 @@ export function Avatar() {
     </AvatarContainer>
   )
 }
+
+Avatar.displayName = 'Avatar'
