@@ -34,6 +34,7 @@
     "@ignite-ui/tokens": "*",
     "@ignite-ui/ts-config": "*",
     "@phosphor-icons/react": "^2.1.6",
+    "@storybook/addon-a11y": "^8.1.11",
     "polished": "^4.2.2",
     "storybook-code-view": "^1.0.0"
   }
